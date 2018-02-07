@@ -1,0 +1,20 @@
+doctype html
+html
+    head
+        title #{title}
+        link(rel="stylesheet", href="style.css")
+    body
+        header
+            nav
+                div(id="navbar")
+                    ul(id="nav")
+                        li(id="title") 
+                            a(href='/') #{"Home"}
+                        li(id="listings") 
+                            a(href='/listings') #{"Listings"}
+                        li(id="order") 
+                            a(href='/order') #{"Order"}
+        body
+            div
+                block content
+        footer

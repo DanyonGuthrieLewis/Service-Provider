@@ -1,0 +1,42 @@
+body {
+    background: white;
+    color: black;
+}
+
+#navbar {
+    text-align: center;
+}
+
+ul {
+    width: 450px;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+#nav ul {
+    display: inline-block;
+}
+
+#nav li {
+    float: left;
+    margin: auto;
+    width: 150px;
+}
+
+li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18pt;
+}
+
+li a:hover {
+    background-color: rgb(241, 241, 241);
+    color: rgb(0, 122, 20);
+}
