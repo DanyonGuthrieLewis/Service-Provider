@@ -3,44 +3,44 @@
 	 {	 
 		 "name": "Full Package",
 		 "img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-		 "price": "249.99",
-		 "description": "You might as well adopt an animal if you choose this option."
+		 "price": "549.99",
+		 "description": "You might as well adopt an pet if you choose this option."
 	 },
 	 {
-		 "name":"item2",
+		 "name":"One Day",
 		 "img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-		"price": "2.99",
-		"description": "Desc 2"
+		"price": "19.99",
+		"description": "We will drop off this pet in the morning and pick them up in the afternoon. Food not provided."
 	},
-	 {  "name":"item3",
+	 {  "name":"One Week",
 		"img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-		"price": "2.99",
-		"description": "Desc 3"
+		"price": "99.99",
+		"description": "We will drop off and pick up this pet every day for one week. Food not provided."
 	 },
-	 {  "name":"item4",
+	 {  "name":"Overnight Package",
 		"img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-		"price": "2.99",
-		"description": "Desc 4"
+		"price": "Varies",
+		"description": "We will allow you to keep this pet overnight. Added to any of the base options. If none are selected, this will be for only one night."
 	 },
-	 {  "name":"item5",
+	 {  "name":"Food Package",
 		"img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-		"price": "2.99",
-		"description": "Desc 5"
+		"price": "Varies",
+		"description": "We will provide necessary food for the pet."
 	 },
-	 {  "name":"item6",
+	 {  "name":"Toy Package",
 		"img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-		"price": "2.99",
-		"description": "Desc 6"
+		"price": "9.99",
+		"description": "We will provide a handful of toys for you to play with the pet. You will be able to keep the toys for an added price."
 	 },
-	 {  "name":"item7",
+	 {  "name":"Clothing Package",
 		"img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-		"price": "2.99",
-		"description": "Desc 7"
+		"price": "15.99",
+		"description": "We will provide a few sets of clothing that the pet is comfortable with. Not all pets will be able to receive this."
 	 },
-	 {  "name":"item8",
+	 {  "name":"Add Another Pet",
 		"img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-		"price": "2.99",
-		"description": "Desc 8"
+		"price": "Varies",
+		"description": "We will bring along one more of this pet for double the fun!"
 	 }
  ],
   "category2":[
