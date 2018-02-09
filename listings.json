@@ -1,10 +1,10 @@
 {
  "category1":[
 	 {	 
-		 "name":"item1",
+		 "name": "Full Package",
 		 "img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-		 "price": "2.99",
-		 "description": "Desc 1"
+		 "price": "249.99",
+		 "description": "You might as well adopt an animal if you choose this option."
 	 },
 	 {
 		 "name":"item2",
