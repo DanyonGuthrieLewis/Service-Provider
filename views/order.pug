@@ -2,3 +2,36 @@ extends layout
 
 block content
     p This is my Order Page!
+    form(id='order_form', method='post', action='/submitted')
+        p Name:
+            input(type='text', name='name')
+        p Address:
+            input(type='text', name='address')
+        p PhoneNumber:
+            input(type='text', name='phoneNumber')
+        p
+            input(type='checkbox', name='service1', value='service1')
+            label service 1
+        p
+            input(type='checkbox', name='service2', value='service2')
+            label service 2
+        p
+            input(type='checkbox', name='service3', value='service3')
+            label service 3
+        p
+            input(type='checkbox', name='service4', value='service4')
+            label service 4
+        p
+            input(type='checkbox', name='service5', value='service5')
+            label service 5
+        p
+            input(type='checkbox', name='service6', value='service6')
+            label service 6
+        p
+            input(type='checkbox', name='service7', value='service7')
+            label service 7
+        p
+            input(type='checkbox', name='service8', value='service8')
+            label service 8
+        p
+            input(type='submit', value='Send it')
