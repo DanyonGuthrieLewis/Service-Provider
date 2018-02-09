@@ -7,6 +7,8 @@ exports.index = function(req, res)
     
     res.render('listings', {
         "title": "Listings",
-        category1: jsonContent.category1
+        category1: jsonContent.category1,
+        category2: jsonContent.category2,
+        category3: jsonContent.category3
     });
 }
