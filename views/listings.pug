@@ -2,3 +2,7 @@ extends layout
 
 block content
     p This is my Listing Page!
+    ul
+        for item in category1
+            li= item.name
+                img(src=item.img)

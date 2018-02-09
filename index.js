@@ -1,7 +1,6 @@
 var express = require('express');
 var pug = require('pug');
 var path = require('path');
-var fs = require('file-system');
 
 var listings = require('./routes/listings.js');
 var order = require('./routes/order.js');
