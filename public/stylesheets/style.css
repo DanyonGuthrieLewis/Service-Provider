@@ -1,0 +1,49 @@
+/* line 8, ../sass/style.scss */
+body {
+  background: white;
+  color: black;
+}
+
+/* line 13, ../sass/style.scss */
+#navbar {
+  text-align: center;
+}
+
+/* line 17, ../sass/style.scss */
+ul {
+  width: 450px;
+  list-style-type: none;
+  margin: 0 auto;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+  text-align: center;
+}
+
+/* line 27, ../sass/style.scss */
+#nav ul {
+  display: inline-block;
+}
+
+/* line 31, ../sass/style.scss */
+#nav li {
+  float: left;
+  margin: auto;
+  width: 150px;
+}
+
+/* line 37, ../sass/style.scss */
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 18pt;
+}
+
+/* line 46, ../sass/style.scss */
+li a:hover {
+  background-color: #f1f1f1;
+  color: #007a14;
+}
