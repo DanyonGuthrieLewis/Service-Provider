@@ -52,7 +52,7 @@
 	},
 	{
 		"name":"One Day",
-		"img":"images/ferrets/fert2.jpg",
+		"img":"images/ferrets/fert2-2.jpg",
 	   "price": "19.99",
 	   "description": "We will drop off this pet in the morning and pick them up in the afternoon. Food not provided."
    },
@@ -67,7 +67,7 @@
 	   "description": "We will allow you to keep this pet overnight. Added to any of the base options. If none are selected, this will be for only one night."
 	},
 	{  "name":"Food Package",
-	   "img":"images/ferrets/fert5.png",
+	   "img":"images/ferrets/fert5-2.png",
 	   "price": "Varies",
 	   "description": "We will provide necessary food for the pet."
 	},
@@ -82,7 +82,7 @@
 	   "description": "We will provide a few sets of clothing that the pet is comfortable with. Not all pets will be able to receive this."
 	},
 	{  "name":"Add Another Pet",
-	   "img":"images/ferrets/fert8.jpg",
+	   "img":"images/ferrets/fert8-2.jpg",
 	   "price": "Varies",
 	   "description": "We will bring along one more of this pet for double the fun!"
 	}
@@ -116,7 +116,7 @@
 	   "description": "We will provide necessary food for the pet."
 	},
 	{  "name":"Toy Package",
-	   "img":"images/hamsters/hamster6.jpg",
+	   "img":"images/hamsters/hamster6-2.jpg",
 	   "price": "9.99",
 	   "description": "We will provide a handful of toys for you to play with the pet. You will be able to keep the toys for an added price."
 	},
@@ -126,7 +126,7 @@
 	   "description": "We will provide a few sets of clothing that the pet is comfortable with. Not all pets will be able to receive this."
 	},
 	{  "name":"Add Another Pet",
-	   "img":"images/hamsters/hamster8.jpg",
+	   "img":"images/hamsters/hamster8-2.jpg",
 	   "price": "Varies",
 	   "description": "We will bring along one more of this pet for double the fun!"
 	}
