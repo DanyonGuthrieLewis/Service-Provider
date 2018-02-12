@@ -2,43 +2,43 @@
  "category1":[
 	 {	 
 		 "name": "Full Package",
-		 "img":"images/nav-img.jpg",
+		 "img":"images/cats/cat1.jpeg",
 		 "price": "549.99",
-		 "description": "You might as well adopt an pet if you choose this option."
+		 "description": "You might as well adopt a pet if you choose this option."
 	 },
 	 {
 		 "name":"One Day",
-		 "img":"images/nav-img.jpg",
+		 "img":"images/cats/cat2.jpg",
 		"price": "19.99",
 		"description": "We will drop off this pet in the morning and pick them up in the afternoon. Food not provided."
 	},
 	 {  "name":"One Week",
-		"img":"images/nav-img.jpg",
+		"img":"images/cats/cat3.jpg",
 		"price": "99.99",
 		"description": "We will drop off and pick up this pet every day for one week. Food not provided."
 	 },
 	 {  "name":"Overnight Package",
-		"img":"images/nav-img.jpg",
+		"img":"images/cats/cat4.jpg",
 		"price": "Varies",
 		"description": "We will allow you to keep this pet overnight. Added to any of the base options. If none are selected, this will be for only one night."
 	 },
 	 {  "name":"Food Package",
-		"img":"images/nav-img.jpg",
+		"img":"images/cats/cat5.jpg",
 		"price": "Varies",
 		"description": "We will provide necessary food for the pet."
 	 },
 	 {  "name":"Toy Package",
-		"img":"images/nav-img.jpg",
+		"img":"images/cats/cat6.jpg",
 		"price": "9.99",
 		"description": "We will provide a handful of toys for you to play with the pet. You will be able to keep the toys for an added price."
 	 },
 	 {  "name":"Clothing Package",
-		"img":"images/nav-img.jpg",
+		"img":"images/cats/cat7.jpg",
 		"price": "15.99",
 		"description": "We will provide a few sets of clothing that the pet is comfortable with. Not all pets will be able to receive this."
 	 },
 	 {  "name":"Add Another Pet",
-		"img":"images/nav-img.jpg",
+		"img":"images/cats/cat8.jpg",
 		"price": "Varies",
 		"description": "We will bring along one more of this pet for double the fun!"
 	 }
@@ -46,43 +46,43 @@
  "category2":[
 	{	 
 		"name": "Full Package",
-		"img":"images/nav-img.jpg",
+		"img":"images/ferrets/fert1.jpg",
 		"price": "549.99",
 		"description": "You might as well adopt an pet if you choose this option."
 	},
 	{
 		"name":"One Day",
-		"img":"images/nav-img.jpg",
+		"img":"images/ferrets/fert2.jpg",
 	   "price": "19.99",
 	   "description": "We will drop off this pet in the morning and pick them up in the afternoon. Food not provided."
    },
 	{  "name":"One Week",
-	   "img":"images/nav-img.jpg",
+	   "img":"images/ferrets/fert3.jpg",
 	   "price": "99.99",
 	   "description": "We will drop off and pick up this pet every day for one week. Food not provided."
 	},
 	{  "name":"Overnight Package",
-	   "img":"images/nav-img.jpg",
+	   "img":"images/ferrets/fert4.jpg",
 	   "price": "Varies",
 	   "description": "We will allow you to keep this pet overnight. Added to any of the base options. If none are selected, this will be for only one night."
 	},
 	{  "name":"Food Package",
-	   "img":"images/nav-img.jpg",
+	   "img":"images/ferrets/fert5.png",
 	   "price": "Varies",
 	   "description": "We will provide necessary food for the pet."
 	},
 	{  "name":"Toy Package",
-	   "img":"images/nav-img.jpg",
+	   "img":"images/ferrets/fert6.jpg",
 	   "price": "9.99",
 	   "description": "We will provide a handful of toys for you to play with the pet. You will be able to keep the toys for an added price."
 	},
 	{  "name":"Clothing Package",
-	   "img":"images/nav-img.jpg",
+	   "img":"images/ferrets/fert7.jpg",
 	   "price": "15.99",
 	   "description": "We will provide a few sets of clothing that the pet is comfortable with. Not all pets will be able to receive this."
 	},
 	{  "name":"Add Another Pet",
-	   "img":"images/nav-img.jpg",
+	   "img":"images/ferrets/fert8.jpg",
 	   "price": "Varies",
 	   "description": "We will bring along one more of this pet for double the fun!"
 	}
@@ -90,43 +90,43 @@
 "category3":[
 	{	 
 		"name": "Full Package",
-		"img":"images/nav-img.jpg",
+		"img":"images/hamsters/hamster1.jpg",
 		"price": "549.99",
 		"description": "You might as well adopt an pet if you choose this option."
 	},
 	{
 		"name":"One Day",
-		"img":"images/nav-img.jpg",
+		"img":"images/hamsters/hamster2.jpg",
 	   "price": "19.99",
 	   "description": "We will drop off this pet in the morning and pick them up in the afternoon. Food not provided."
    },
 	{  "name":"One Week",
-	   "img":"images/nav-img.jpg",
+	   "img":"images/hamsters/hamster3.jpg",
 	   "price": "99.99",
 	   "description": "We will drop off and pick up this pet every day for one week. Food not provided."
 	},
 	{  "name":"Overnight Package",
-	   "img":"images/nav-img.jpg",
+	   "img":"images/hamsters/hamster4.jpg",
 	   "price": "Varies",
 	   "description": "We will allow you to keep this pet overnight. Added to any of the base options. If none are selected, this will be for only one night."
 	},
 	{  "name":"Food Package",
-	   "img":"images/nav-img.jpg",
+	   "img":"images/hamsters/hamster5.jpg",
 	   "price": "Varies",
 	   "description": "We will provide necessary food for the pet."
 	},
 	{  "name":"Toy Package",
-	   "img":"images/nav-img.jpg",
+	   "img":"images/hamsters/hamster6.jpg",
 	   "price": "9.99",
 	   "description": "We will provide a handful of toys for you to play with the pet. You will be able to keep the toys for an added price."
 	},
 	{  "name":"Clothing Package",
-	   "img":"images/nav-img.jpg",
+	   "img":"images/hamsters/hamster7.jpg",
 	   "price": "15.99",
 	   "description": "We will provide a few sets of clothing that the pet is comfortable with. Not all pets will be able to receive this."
 	},
 	{  "name":"Add Another Pet",
-	   "img":"images/nav-img.jpg",
+	   "img":"images/hamsters/hamster8.jpg",
 	   "price": "Varies",
 	   "description": "We will bring along one more of this pet for double the fun!"
 	}
