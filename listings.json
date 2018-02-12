@@ -2,133 +2,133 @@
  "category1":[
 	 {	 
 		 "name": "Full Package",
-		 "img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
+		 "img":"images/nav-img.jpg",
 		 "price": "549.99",
 		 "description": "You might as well adopt an pet if you choose this option."
 	 },
 	 {
 		 "name":"One Day",
-		 "img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
+		 "img":"images/nav-img.jpg",
 		"price": "19.99",
 		"description": "We will drop off this pet in the morning and pick them up in the afternoon. Food not provided."
 	},
 	 {  "name":"One Week",
-		"img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
+		"img":"images/nav-img.jpg",
 		"price": "99.99",
 		"description": "We will drop off and pick up this pet every day for one week. Food not provided."
 	 },
 	 {  "name":"Overnight Package",
-		"img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
+		"img":"images/nav-img.jpg",
 		"price": "Varies",
 		"description": "We will allow you to keep this pet overnight. Added to any of the base options. If none are selected, this will be for only one night."
 	 },
 	 {  "name":"Food Package",
-		"img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
+		"img":"images/nav-img.jpg",
 		"price": "Varies",
 		"description": "We will provide necessary food for the pet."
 	 },
 	 {  "name":"Toy Package",
-		"img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
+		"img":"images/nav-img.jpg",
 		"price": "9.99",
 		"description": "We will provide a handful of toys for you to play with the pet. You will be able to keep the toys for an added price."
 	 },
 	 {  "name":"Clothing Package",
-		"img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
+		"img":"images/nav-img.jpg",
 		"price": "15.99",
 		"description": "We will provide a few sets of clothing that the pet is comfortable with. Not all pets will be able to receive this."
 	 },
 	 {  "name":"Add Another Pet",
-		"img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
+		"img":"images/nav-img.jpg",
 		"price": "Varies",
 		"description": "We will bring along one more of this pet for double the fun!"
 	 }
  ],
-  "category2":[
+ "category2":[
 	{	 
-		"name":"item1",
-		"img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-		"price": "2.99",
-		"description": "Desc 1"
+		"name": "Full Package",
+		"img":"images/nav-img.jpg",
+		"price": "549.99",
+		"description": "You might as well adopt an pet if you choose this option."
 	},
 	{
-		"name":"item2",
-		"img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-	   "price": "2.99",
-	   "description": "Desc 2"
+		"name":"One Day",
+		"img":"images/nav-img.jpg",
+	   "price": "19.99",
+	   "description": "We will drop off this pet in the morning and pick them up in the afternoon. Food not provided."
    },
-	{  "name":"item3",
-	   "img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-	   "price": "2.99",
-	   "description": "Desc 3"
+	{  "name":"One Week",
+	   "img":"images/nav-img.jpg",
+	   "price": "99.99",
+	   "description": "We will drop off and pick up this pet every day for one week. Food not provided."
 	},
-	{  "name":"item4",
-	   "img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-	   "price": "2.99",
-	   "description": "Desc 4"
+	{  "name":"Overnight Package",
+	   "img":"images/nav-img.jpg",
+	   "price": "Varies",
+	   "description": "We will allow you to keep this pet overnight. Added to any of the base options. If none are selected, this will be for only one night."
 	},
-	{  "name":"item5",
-	   "img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-	   "price": "2.99",
-	   "description": "Desc 5"
+	{  "name":"Food Package",
+	   "img":"images/nav-img.jpg",
+	   "price": "Varies",
+	   "description": "We will provide necessary food for the pet."
 	},
-	{  "name":"item6",
-	   "img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-	   "price": "2.99",
-	   "description": "Desc 6"
+	{  "name":"Toy Package",
+	   "img":"images/nav-img.jpg",
+	   "price": "9.99",
+	   "description": "We will provide a handful of toys for you to play with the pet. You will be able to keep the toys for an added price."
 	},
-	{  "name":"item7",
-	   "img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-	   "price": "2.99",
-	   "description": "Desc 7"
+	{  "name":"Clothing Package",
+	   "img":"images/nav-img.jpg",
+	   "price": "15.99",
+	   "description": "We will provide a few sets of clothing that the pet is comfortable with. Not all pets will be able to receive this."
 	},
-	{  "name":"item8",
-	   "img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-	   "price": "2.99",
-	   "description": "Desc 8"
+	{  "name":"Add Another Pet",
+	   "img":"images/nav-img.jpg",
+	   "price": "Varies",
+	   "description": "We will bring along one more of this pet for double the fun!"
 	}
 ],
-  "category3":[
+"category3":[
 	{	 
-		"name":"item1",
-		"img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-		"price": "2.99",
-		"description": "Desc 1"
+		"name": "Full Package",
+		"img":"images/nav-img.jpg",
+		"price": "549.99",
+		"description": "You might as well adopt an pet if you choose this option."
 	},
 	{
-		"name":"item2",
-		"img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-	   "price": "2.99",
-	   "description": "Desc 2"
+		"name":"One Day",
+		"img":"images/nav-img.jpg",
+	   "price": "19.99",
+	   "description": "We will drop off this pet in the morning and pick them up in the afternoon. Food not provided."
    },
-	{  "name":"item3",
-	   "img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-	   "price": "2.99",
-	   "description": "Desc 3"
+	{  "name":"One Week",
+	   "img":"images/nav-img.jpg",
+	   "price": "99.99",
+	   "description": "We will drop off and pick up this pet every day for one week. Food not provided."
 	},
-	{  "name":"item4",
-	   "img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-	   "price": "2.99",
-	   "description": "Desc 4"
+	{  "name":"Overnight Package",
+	   "img":"images/nav-img.jpg",
+	   "price": "Varies",
+	   "description": "We will allow you to keep this pet overnight. Added to any of the base options. If none are selected, this will be for only one night."
 	},
-	{  "name":"item5",
-	   "img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-	   "price": "2.99",
-	   "description": "Desc 5"
+	{  "name":"Food Package",
+	   "img":"images/nav-img.jpg",
+	   "price": "Varies",
+	   "description": "We will provide necessary food for the pet."
 	},
-	{  "name":"item6",
-	   "img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-	   "price": "2.99",
-	   "description": "Desc 6"
+	{  "name":"Toy Package",
+	   "img":"images/nav-img.jpg",
+	   "price": "9.99",
+	   "description": "We will provide a handful of toys for you to play with the pet. You will be able to keep the toys for an added price."
 	},
-	{  "name":"item7",
-	   "img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-	   "price": "2.99",
-	   "description": "Desc 7"
+	{  "name":"Clothing Package",
+	   "img":"images/nav-img.jpg",
+	   "price": "15.99",
+	   "description": "We will provide a few sets of clothing that the pet is comfortable with. Not all pets will be able to receive this."
 	},
-	{  "name":"item8",
-	   "img":"https://static.pexels.com/photos/20787/pexels-photo.jpg",
-	   "price": "2.99",
-	   "description": "Desc 8"
+	{  "name":"Add Another Pet",
+	   "img":"images/nav-img.jpg",
+	   "price": "Varies",
+	   "description": "We will bring along one more of this pet for double the fun!"
 	}
 ]
 

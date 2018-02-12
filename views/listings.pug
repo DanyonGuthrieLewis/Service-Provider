@@ -1,8 +1,22 @@
 extends layout
 
 block content
-    p This is my Listing Page!
-    ul
-        for item in category1
-            li= item.name
-                img(src=item.img)
+    p Here are the critters you can rent and details on each!
+    div Cats
+        ul
+            for item in category1
+                li= item.name
+                    img(src=item.img)
+                    p= item.description
+    div Ferrets
+        ul
+            for item in category2
+                li= item.name
+                    img(src=item.img)
+                    p= item.description
+    div Dogs
+        ul
+            for item in category3
+                li= item.name
+                    img(src=item.img)
+                    p= item.description
