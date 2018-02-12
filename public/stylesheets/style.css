@@ -1,4 +1,4 @@
-/* line 15, ../sass/style.scss */
+/* line 16, ../sass/style.scss */
 body {
   background: #FFFFFF;
   color: #6B7A8F;
@@ -6,12 +6,18 @@ body {
   font-size: 15pt;
 }
 
-/* line 22, ../sass/style.scss */
-#navbar {
+/* line 23, ../sass/style.scss */
+#navbar1 {
   text-align: center;
 }
 
-/* line 26, ../sass/style.scss */
+/* line 27, ../sass/style.scss */
+#navbar2 {
+  text-align: center;
+  display: none;
+}
+
+/* line 32, ../sass/style.scss */
 ul {
   width: 750px;
   list-style-type: none;
@@ -22,71 +28,71 @@ ul {
   text-align: center;
 }
 
-/* line 36, ../sass/style.scss */
-#nav ul {
-  display: inline-block;
+/* line 42, ../sass/style.scss */
+#nav {
+  display: inline-table;
 }
 
-/* line 40, ../sass/style.scss */
+/* line 46, ../sass/style.scss */
 #nav li {
   float: left;
   margin: auto;
   width: 250px;
 }
 
-/* line 46, ../sass/style.scss */
+/* line 52, ../sass/style.scss */
 li a {
   display: block;
   color: #F7882F;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 40pt;
+  font-size: 5vw;
   font-family: "Indie Flower", cursive;
 }
 
-/* line 56, ../sass/style.scss */
+/* line 62, ../sass/style.scss */
 li a:hover {
   background-color: #FFFFFF;
   color: #6B7A8F;
 }
 
-/* line 61, ../sass/style.scss */
+/* line 67, ../sass/style.scss */
 h2 {
   font-family: "Indie Flower", cursive;
-  font-size: 30pt;
+  font-size: 20pt;
 }
 
-/* line 66, ../sass/style.scss */
+/* line 72, ../sass/style.scss */
 .container {
   position: relative;
   text-align: center;
 }
 
 /* line 57, ../sass/style.scss */
-/* line 72, ../sass/style.scss */
+/* line 78, ../sass/style.scss */
 .title-text {
   position: absolute;
   top: 10%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 40pt;
+  font-size: 5vw;
   color: #F7882F;
   font-family: "Indie Flower", cursive;
 }
 
-/* line 82, ../sass/style.scss */
+/* line 88, ../sass/style.scss */
 .main {
   margin-left: 20%;
   margin-right: 20%;
 }
 
-/* line 87, ../sass/style.scss */
+/* line 93, ../sass/style.scss */
 .foot {
   height: 30px;
 }
 
-/* line 91, ../sass/style.scss */
+/* line 97, ../sass/style.scss */
 .citrus-round-corner-box {
   border-radius: 25px;
   background: #F7C331;
@@ -94,23 +100,57 @@ h2 {
   color: #FFFFFF;
 }
 
-/* line 98, ../sass/style.scss */
+/* line 104, ../sass/style.scss */
 .white-text {
   color: #FFFFFF;
 }
 
-/* line 103, ../sass/style.scss */
+/* line 109, ../sass/style.scss */
 .apricot-text {
   color: #F7882F;
 }
 
-/* line 107, ../sass/style.scss */
+/* line 113, ../sass/style.scss */
 .pic-text {
   display: inline-block;
   margin-bottom: 0px;
 }
 
-/* line 113, ../sass/style.scss */
+/* line 119, ../sass/style.scss */
 #title-pic-01 {
   width: 80%;
+}
+
+@media all and (max-width: 750px) {
+  /* line 124, ../sass/style.scss */
+  #navbar1 {
+    display: none;
+  }
+
+  /* line 127, ../sass/style.scss */
+  #navbar2 {
+    display: block;
+  }
+
+  /* line 130, ../sass/style.scss */
+  #navbar2 #nav {
+    display: block;
+  }
+
+  /* line 133, ../sass/style.scss */
+  #nav li {
+    margin: auto;
+    width: 250px;
+  }
+
+  /* line 137, ../sass/style.scss */
+  ul {
+    width: 250px;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FFFFFF;
+    text-align: center;
+  }
 }
