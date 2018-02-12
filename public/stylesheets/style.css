@@ -94,18 +94,23 @@ h2 {
   color: #FFFFFF;
 }
 
-/* line 100, ../sass/style.scss */
+/* line 98, ../sass/style.scss */
+.white-text {
+  color: #FFFFFF;
+}
+
+/* line 103, ../sass/style.scss */
 .apricot-text {
   color: #F7882F;
 }
 
-/* line 104, ../sass/style.scss */
+/* line 107, ../sass/style.scss */
 .pic-text {
   display: inline-block;
-  margin-bottom: 30px;
+  margin-bottom: 0px;
 }
 
-/* line 110, ../sass/style.scss */
+/* line 113, ../sass/style.scss */
 #title-pic-01 {
   width: 80%;
 }
