@@ -2,9 +2,13 @@ doctype html
 html
     head
         title #{title}
+        link(href="https://fonts.googleapis.com/css?family=Indie+Flower|Roboto" rel="stylesheet") 
         link(rel="stylesheet", href="stylesheets/style.css")
     body
         header
+            div(class="container")
+                div(class="title-text") Critter House
+                img(src="images/nav-img.jpg", alt="images/nav-img.jpg" width="100%")
             nav
                 div(id="navbar")
                     ul(id="nav")
@@ -15,6 +19,7 @@ html
                         li(id="order") 
                             a(href='/order') #{"Order"}
         body
-            div
+            div(class="main")
                 block content
         footer
+            div(class="foot")
