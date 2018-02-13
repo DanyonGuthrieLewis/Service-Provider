@@ -1,14 +1,14 @@
 extends layout
 
 block content
-    p This is my Order Page!
+    p Want to make an order? Well you're at the right place. Fill out your contact information, and submit your order. We'll get in contact with you as soon as possible, and discuss the details, and handle payment.
     form(id='order_form', method='post', action='/submitted')
-        p Name: 
-            input(type='text', name='name')
-        p Address: 
-            input(type='text', name='address')
-        p Phone Number: 
-            input(type='text', name='phone_number')
+        p
+            input(type='text', name='name' placeholder="Name")
+        p
+            input(type='text', name='address' placeholder="Address")
+        p 
+            input(type='text', name='phone_number' placeholder="Phone Number")
         select(name='dropbox', value='dropbox')
             option(value='category1') Cat
             option(value='category2') Ferret
@@ -39,3 +39,5 @@ block content
             label Add Another Pet - Varies
         p
             input(type='submit', value='Submit Order')
+    div(id="order-img")
+        img(src="images/cat-box.jpg", alt="images/cat-box.jpg")

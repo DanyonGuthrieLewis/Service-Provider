@@ -173,29 +173,81 @@ h2 {
   border-radius: 50%;
 }
 
+/* line 170, ../sass/style.scss */
+input[type=text] {
+  border: none;
+  border-bottom: 2px solid #F7C331;
+  width: 100%;
+  font-size: 15pt;
+  color: #6B7A8F;
+}
+
+/* line 178, ../sass/style.scss */
+select {
+  width: 100%;
+  border: none;
+  border-bottom: 2px solid #F7C331;
+  background-color: #FFFFFF;
+  font-size: 15pt;
+  color: #F7882F;
+}
+
+/* line 187, ../sass/style.scss */
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: #F7882F;
+  border: none;
+  color: #FFFFFF;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 20pt;
+  font-family: "Indie Flower", cursive;
+  width: 100%;
+}
+
+/* line 200, ../sass/style.scss */
+#order_form {
+  width: 50%;
+  float: left;
+}
+
+/* line 205, ../sass/style.scss */
+#order-img {
+  width: 50%;
+  float: left;
+  text-align: center;
+  margin-top: 30px;
+}
+/* line 206, ../sass/style.scss */
+#order-img img {
+  width: 70%;
+  border-radius: 50%;
+}
+
 @media all and (max-width: 750px) {
-  /* line 171, ../sass/style.scss */
+  /* line 217, ../sass/style.scss */
   #navbar1 {
     display: none;
   }
 
-  /* line 174, ../sass/style.scss */
+  /* line 220, ../sass/style.scss */
   #navbar2 {
     display: block;
   }
 
-  /* line 177, ../sass/style.scss */
+  /* line 223, ../sass/style.scss */
   #navbar2 #nav {
     display: block;
   }
 
-  /* line 180, ../sass/style.scss */
+  /* line 226, ../sass/style.scss */
   #nav li {
     margin: auto;
     width: 250px;
   }
 
-  /* line 184, ../sass/style.scss */
+  /* line 230, ../sass/style.scss */
   ul {
     width: 250px;
     list-style-type: none;
