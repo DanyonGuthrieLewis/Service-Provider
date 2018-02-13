@@ -3,18 +3,18 @@
 	 {	 
 		 "name": "Full Package",
 		 "img":"images/cats/cat1.jpeg",
-		 "price": "549.99",
+		 "price": "$549.99",
 		 "description": "You might as well adopt a cat if you choose this option."
 	 },
 	 {
 		 "name":"One Day",
 		 "img":"images/cats/cat2.jpg",
-		"price": "19.99",
+		"price": "$19.99",
 		"description": "Spend a day with one of our cuddly cats. Food not provided."
 	},
 	 {  "name":"One Week",
 		"img":"images/cats/cat3.jpg",
-		"price": "99.99",
+		"price": "$99.99",
 		"description": "A week of cat curiosity. Food not provided."
 	 },
 	 {  "name":"Overnight Package",
@@ -29,12 +29,12 @@
 	 },
 	 {  "name":"Toy Package",
 		"img":"images/cats/cat6.jpg",
-		"price": "9.99",
+		"price": "$9.99",
 		"description": "We will provide a handful of toys for you to play your cat friend. You will be able to keep the toys for an added price."
 	 },
 	 {  "name":"Clothing Package",
 		"img":"images/cats/cat7.jpg",
-		"price": "15.99",
+		"price": "$15.99",
 		"description": "We will provide a few sets of clothing that the cat is comfortable with. Not all pets will be able to receive this."
 	 },
 	 {  "name":"Add Another Pet",
@@ -47,18 +47,18 @@
 	{	 
 		"name": "Full Package",
 		"img":"images/ferrets/fert1.jpg",
-		"price": "549.99",
+		"price": "$549.99",
 		"description": "You could spend your money to get a ferret forever instead."
 	},
 	{
 		"name":"One Day",
 		"img":"images/ferrets/fert2-2.jpg",
-	   "price": "19.99",
+	   "price": "$19.99",
 	   "description": "Spend over five hours with a friendly ferret! Food not provided."
    },
 	{  "name":"One Week",
 	   "img":"images/ferrets/fert3.jpg",
-	   "price": "99.99",
+	   "price": "$99.99",
 	   "description": "Five days with a furry friend. Food not provided."
 	},
 	{  "name":"Overnight Package",
@@ -73,12 +73,12 @@
 	},
 	{  "name":"Toy Package",
 	   "img":"images/ferrets/fert6.jpg",
-	   "price": "9.99",
+	   "price": "$9.99",
 	   "description": "We will provide a handful of toys for you to play your ferret friend. You will be able to keep the toys for an added price."
 	},
 	{  "name":"Clothing Package",
 	   "img":"images/ferrets/fert7.jpg",
-	   "price": "15.99",
+	   "price": "$15.99",
 	   "description": "We will provide a few sets of clothing that your ferret will love. Not all pets will be able to receive this."
 	},
 	{  "name":"Add Another Pet",
@@ -91,18 +91,18 @@
 	{	 
 		"name": "Full Package",
 		"img":"images/hamsters/hamster1.jpg",
-		"price": "549.99",
+		"price": "$549.99",
 		"description": "Have a heavenly experience with all the hamsters."
 	},
 	{
 		"name":"One Day",
 		"img":"images/hamsters/hamster2.jpg",
-	   "price": "19.99",
+	   "price": "$19.99",
 	   "description": "Have a full day of happiness with a hamster. Food not provided."
    },
 	{  "name":"One Week",
 	   "img":"images/hamsters/hamster3.jpg",
-	   "price": "99.99",
+	   "price": "$99.99",
 	   "description": "Hours of hamster fun. Food not provided."
 	},
 	{  "name":"Overnight Package",
@@ -117,12 +117,12 @@
 	},
 	{  "name":"Toy Package",
 	   "img":"images/hamsters/hamster6-2.jpg",
-	   "price": "9.99",
+	   "price": "$9.99",
 	   "description": "We will provide a handful of toys for the hamster. You will be able to keep the toys for an added price."
 	},
 	{  "name":"Clothing Package",
 	   "img":"images/hamsters/hamster7.jpg",
-	   "price": "15.99",
+	   "price": "$15.99",
 	   "description": "We will provide a few sets of clothing that the hamster is comfortable with. Not all pets will be able to receive this."
 	},
 	{  "name":"Add Another Pet",
