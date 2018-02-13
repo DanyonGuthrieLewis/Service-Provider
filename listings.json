@@ -48,7 +48,7 @@
 		"name": "Full Package",
 		"img":"images/ferrets/fert1.jpg",
 		"price": "549.99",
-		"description": "You might as well adopt a ferret."
+		"description": "You could spend your money to get a ferret forever instead."
 	},
 	{
 		"name":"One Day",
@@ -92,7 +92,7 @@
 		"name": "Full Package",
 		"img":"images/hamsters/hamster1.jpg",
 		"price": "549.99",
-		"description": "You might as well adopt a hamster if you choose this option."
+		"description": "Have a heavenly experience with all the hamsters."
 	},
 	{
 		"name":"One Day",
