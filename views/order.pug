@@ -3,39 +3,39 @@ extends layout
 block content
     p This is my Order Page!
     form(id='order_form', method='post', action='/submitted')
-        p Name:
+        p Name: 
             input(type='text', name='name')
-        p Address:
+        p Address: 
             input(type='text', name='address')
-        p PhoneNumber:
+        p Phone Number: 
             input(type='text', name='phone_number')
         select(name='dropbox', value='dropbox')
-            option(value='category1') category 1
-            option(value='category2') category 2
-            option(value='category3') category 3
+            option(value='category1') Cat
+            option(value='category2') Ferret
+            option(value='category3') Hamster
         p
-            input(type='checkbox', name='service1', value='service1')
-            label service 1
+            input(type='checkbox', name='service1', value='Full Package')
+            label Full Package - $549.99
         p
-            input(type='checkbox', name='service2', value='service2')
-            label service 2
+            input(type='checkbox', name='service2', value='One Day')
+            label One Day - $19.99
         p
-            input(type='checkbox', name='service3', value='service3')
-            label service 3
+            input(type='checkbox', name='service3', value='One Week')
+            label One Week - $99.99
         p
-            input(type='checkbox', name='service4', value='service4')
-            label service 4
+            input(type='checkbox', name='service4', value='Overnight Package')
+            label Overnight Package - Varies
         p
-            input(type='checkbox', name='service5', value='service5')
-            label service 5
+            input(type='checkbox', name='service5', value='Food Package')
+            label Food Package - Varies
         p
-            input(type='checkbox', name='service6', value='service6')
-            label service 6
+            input(type='checkbox', name='service6', value='Toy Package')
+            label Toy Package - $9.99
         p
-            input(type='checkbox', name='service7', value='service7')
-            label service 7
+            input(type='checkbox', name='service7', value='Clothing Package')
+            label Clothing Package - $15.99
         p
-            input(type='checkbox', name='service8', value='service8')
-            label service 8
+            input(type='checkbox', name='service8', value='Add Pet')
+            label Add Another Pet - Varies
         p
-            input(type='submit', value='Send it')
+            input(type='submit', value='Submit Order')
