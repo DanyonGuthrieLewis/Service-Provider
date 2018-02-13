@@ -48,7 +48,7 @@ app.post('/submitted', urlencodedParser, function(req, res){
     test.push(req.body.service7);
     test.push(req.body.service8);
     test.push(req.body.dropbox);
-    test.push("We will contact you to plan out when you will want your order.");
+    test.push("We will contact you to plan out when you will want your order. We hope you enjoy time with your critter!");
 
     fs.writeFile('test.txt', test.join("\r\n"));
 });
