@@ -47,7 +47,7 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 5vw;
+  font-size: 40pt;
   font-family: "Indie Flower", cursive;
 }
 
@@ -83,8 +83,8 @@ h2 {
 
 /* line 88, ../sass/style.scss */
 .main {
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 /* line 93, ../sass/style.scss */
