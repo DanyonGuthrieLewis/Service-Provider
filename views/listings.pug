@@ -1,22 +1,24 @@
 extends layout
 
 block content
-    p Here are the critters you can rent and details on each!
-    div Cats
-        ul
-            for item in category1
-                li= item.name
-                    img(src=item.img)
-                    p= item.description
-    div Ferrets
-        ul
-            for item in category2
-                li= item.name
-                    img(src=item.img)
-                    p= item.description
-    div Hamsters
-        ul
-            for item in category3
-                li= item.name
-                    img(src=item.img)
-                    p= item.description
+    p(id="listing-text") Here are the critters you can rent and details on each!
+    div(class="listings")
+        div(class="row") 
+            div(class="column" id="item-title") Cats
+            div(class="column" id="item-title") Ferrets
+            div(class="column" id="item-title") Hamsters
+
+        - for (var x = 1; x < category1.length; x++)
+            div(class="row") 
+                div(class="column")
+                    p(id="item-title")= category1[x].name
+                    img(src=category1[x].img)
+                    p= category1[x].description
+                div(class="column")
+                    p(id="item-title")= category2[x].name
+                    img(src=category2[x].img)
+                    p= category2[x].description
+                div(class="column")
+                    p(id="item-title")= category3[x].name
+                    img(src=category3[x].img)
+                    p= category3[x].description
