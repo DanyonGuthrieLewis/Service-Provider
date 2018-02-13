@@ -23,15 +23,16 @@ app.post('/submitted', urlencodedParser, function(req, res){
     var order = {
         name: req.body.name,
         address: req.body.address,
-        phone_number: req.body.phone_number,
+        phone_number: req.body.phone_number, 
         service1: req.body.service1,
         service2: req.body.service2,
         service3: req.body.service3,
-        service3: req.body.service4,
-        service3: req.body.service5,
-        service3: req.body.service6,
-        service3: req.body.service7,
-        service3: req.body.service8
+        service4: req.body.service4,
+        service5: req.body.service5,
+        service6: req.body.service6,
+        service7: req.body.service7,
+        service8: req.body.service8,
+        dropbox: req.body.dropbox
     }
     res.render('submitted');
     var test = [];
@@ -46,6 +47,7 @@ app.post('/submitted', urlencodedParser, function(req, res){
     test.push(req.body.service6);
     test.push(req.body.service7);
     test.push(req.body.service8);
+    test.push(req.body.dropbox);
 
     fs.writeFile('test.txt', test.join("\r\n"));
 });
